@@ -31,7 +31,7 @@
       </form>
 
     <?php else: ?>
-      <p><?= h($year) ?>年は <?= eto($year) ?>年です。</p>
+      <p><?= h($year) ?>年は<?= eto($year) ?>年です。</p>
     <?php endif; ?>
 
   </body>
